@@ -24,3 +24,18 @@ Data cleaning is the process of detecting and fixing inaccurate, corrupted, inco
 
 ![image](https://github.com/user-attachments/assets/2825d48a-e829-49d6-a248-b3d04101b2e6)
 
+## Second Stage (Data wrangling)
+Data is tranfomred and processed using power query editor.
+
+## Thrid stage (Exploratory data analysis)
+Exploratory data analysis is performed on the data to get more insightful information from our raw data.
+
+## Fourth stage( Data analysis expression)
+There are some expression are create using power pivot in excel. 
+
+## Last stage (Data visualization)
+The data visualizations is the process of presentation and representation of our data. Data visuals are pictures created from our data to transform insightful information to our users.
+
+## Final stage (Dashboard)
+Dashbaord is a single page consists of many tiles and charts to present our data using visuals.
+![dashboard](https://github.com/user-attachments/assets/17690150-7ea1-4ef1-b9ff-3e6c3884d603)
