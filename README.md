@@ -2,12 +2,19 @@
 ![download](https://github.com/user-attachments/assets/d782c344-33a4-48d4-989e-e0ce0c6d7f85)
 ## The data analysis project is done to answer the following questions, find patterns and get valuable insights from the given data:
 • What is the crime rate in Calgary?
+
 • Which community has the highest crime rate in Calgary?
+
 • Which community has the lowest crime rate in Calgary?
+
 • Which community has zero Crime rate in Calgary?
+
 • Which crime is the highest in Calgary?
+
 • Crime rate per Geo Location in Calgary?
+
 • Total crimes per crime category?
+
 • Is crime rate having uptrend or down trend?
 
 ## you can access the raw data from the following link.
