@@ -21,6 +21,7 @@
 https://github.com/eemalzazaii/Calgary_Crimes_Data_analysis_Excel/blob/0b1dfd3209bd1203ffbe138ba253cfd557821dc9/Raw_Data(.csv 
 ## First Stage (Data cleaning)
 Data cleaning is the process of detecting and fixing inaccurate, corrupted, incorrectly formatted, duplicate and missing data within a dataset. I have used power query editor in excel to clean and transform the data to make it ready for analysis and visualization. You can see the first 20 raw records of the data before cleaning.
+
 Sector	Community Name	Category	Crime Count	Resident Count	Date	Year	Month	ID	Community Center Point
 NORTHWEST	01B	Assault (Non-domestic)	1	0	2022/11	2022	NOV	2022-NOV-01B-Assault (Non-domestic)	POINT (-114.24261426059833 51.102826007628536)
 NORTHWEST	01B	Break & Enter - Commercial	1	0	2019/06	2019	JUN	2019-JUN-01B-Break & Enter - Commercial	POINT (-114.24261426059833 51.102826007628536)
