@@ -38,4 +38,20 @@ The data visualizations is the process of presentation and representation of our
 
 ## Final stage (Dashboard)
 Dashbaord is a single page consists of many tiles and charts to present our data using visuals.
+
+## Findings after analysis:
+1- Most crimeful location is beltline in Calgary.
+2 - Theft from vehichle is the highest crime in Calgary.
+3- Crime rate is decreasing in Calgary since 2015.
+4- Crime is less in Bowness community in Calgary.
+5- Most crimes happen in August, July and September months.
+6- Crimes rate is low in December Month.
+7- Commercial lobery is lowest crime in Calgary. 
+
+
+
+Analayzed and prepared by :Emal Zazai
+contains informations licensed under the open Government License - City of Calgary
+
+
 ![dashboard](https://github.com/user-attachments/assets/17690150-7ea1-4ef1-b9ff-3e6c3884d603)
