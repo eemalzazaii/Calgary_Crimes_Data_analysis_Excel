@@ -1,4 +1,4 @@
-#Data Analysis on Crimes in Calgary Communities.
+# Data Analysis on Crimes in Calgary Communities.
 ## The data analysis project is done to answer the following questions, find patterns and get valuable insights from the given data:
 •	What is the crime rate in Calgary?
 •	Which community has the highest crime rate in Calgary?
