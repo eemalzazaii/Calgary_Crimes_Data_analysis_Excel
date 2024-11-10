@@ -1,4 +1,4 @@
-# Calgary Crime data analysis and visualization
+# Calgary crime data analysis and visualization
 ![download](https://github.com/user-attachments/assets/d782c344-33a4-48d4-989e-e0ce0c6d7f85)
 ## The data analysis project is done to answer the following questions, find patterns and get valuable insights from the given data:
 •What is the crime rate in Calgary?
