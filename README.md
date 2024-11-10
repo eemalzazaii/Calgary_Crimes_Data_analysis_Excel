@@ -38,6 +38,7 @@ The data visualizations is the process of presentation and representation of our
 
 ## Final stage (Dashboard)
 Dashbaord is a single page consists of many tiles and charts to present our data using visuals.
+![dashboard](https://github.com/user-attachments/assets/17690150-7ea1-4ef1-b9ff-3e6c3884d603)
 
 ## Findings after analysis:
 1- Most crimeful location is beltline in Calgary.
@@ -54,4 +55,4 @@ Analayzed and prepared by :Emal Zazai
 contains informations licensed under the open Government License - City of Calgary
 
 
-![dashboard](https://github.com/user-attachments/assets/17690150-7ea1-4ef1-b9ff-3e6c3884d603)
+
